@@ -1,0 +1,27 @@
+{
+  "name": "gmrp-template",
+  "description": "An example project template for using grunt, mocha, requirejs and phantomjs",
+  "version": "1.0.0",
+  "main": "my-module.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "gruntplugin",
+    "grunt",
+    "unit test",
+    "test",
+    "require",
+    "requireJS",
+    "mocha",
+    "phantomJS",
+    "phantom"
+  ],
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-mocha-require-phantom": "^0.6.2"
+  }
+}

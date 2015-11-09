@@ -4,17 +4,18 @@
 
 ### Prerequisites
 
-This requires phantomjs to be installed
+requires phantomjs to be installed
 
     $ sudo npm install -g phantomjs
 
 
 ### Download
 
-    $ git clone 
+    $ git clone https://github.com/kruemelo/gmrp-template.git
 
 ### Install
 
+    $ cd gmrp-template 
     $ npm install 
 
 ### Test 
